@@ -9,6 +9,11 @@
   "author": "Kelly Mears",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.2"
+    "axios": "^0.17.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "helmet": "^3.11.0",
+    "now-logs": "0.0.7",
+    "stripe": "^5.4.0"
   }
 }
